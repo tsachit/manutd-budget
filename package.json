@@ -7,7 +7,8 @@
     "start": "parcel index.html --open",
     "clean": "rimraf ./public",
     "prebuild": "run-s clean",
-    "build": "parcel build index.html --no-source-maps --public-url ./ -d public"
+    "build": "parcel build index.html --no-source-maps --public-url ./ -d public",
+    "deploy": "npm run build && firebase deploy"
   },
   "keywords": [
     "learning",
@@ -22,6 +23,7 @@
   "devDependencies": {
     "@babel/core": "7.2.0",
     "@types/chart.js": "2.7.45",
+    "firebase-tools": "^8.9.0",
     "npm-run-all": "^4.1.5",
     "parcel-bundler": "^1.6.1",
     "rimraf": "^3.0.2"
