@@ -6,7 +6,7 @@ ManUtd financial data used as found on the internet.
 
 Here's the link https://manutd-budget.web.app/
 
-Cheers :D
+Cheers 😂
 
 Looks something like this.
 ![demo](https://github.com/tsachit/manutd-budget/blob/master/demo.png?raw=true)
