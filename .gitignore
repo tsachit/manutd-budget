@@ -6,3 +6,12 @@ node_modules/
 
 # parcel-bundler build / generate output
 public
+
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
