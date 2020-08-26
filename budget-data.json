@@ -1,0 +1,407 @@
+[{
+    "season": "10/11",
+    "incomings": [{
+        "name": "Bebe",
+        "price": 8
+      },
+      {
+        "name": "Smalling",
+        "price": 7
+      },
+      {
+        "name": "Hernandez",
+        "price": 7
+      },
+      {
+        "name": "Lindegaard",
+        "price": 5
+      }
+    ],
+    "outgoings": [{
+        "name": "Tosic",
+        "price": 9
+      },
+      {
+        "name": "Foster",
+        "price": 6
+      }
+    ],
+    "total_incomings": 27,
+    "total_outgoings": 15,
+    "net_spend": 12,
+    "revenue": 367
+  },
+  {
+    "season": "11/12",
+    "incomings": [{
+        "name": "De Gea",
+        "price": 22
+      },
+      {
+        "name": "Phil Jones",
+        "price": 17
+      },
+      {
+        "name": "Young",
+        "price": 16
+      }
+    ],
+    "outgoings": [{
+        "name": "O'Shea",
+        "price": 4
+      },
+      {
+        "name": "Obertan",
+        "price": 3
+      },
+      {
+        "name": "Diouf",
+        "price": 1
+      },
+      {
+        "name": "Brown",
+        "price": 1
+      }
+    ],
+    "total_incomings": 56,
+    "total_outgoings": 9,
+    "net_spend": 47,
+    "revenue": 396
+  },
+  {
+    "season": "12/13",
+    "incomings": [{
+        "name": "Van Persie",
+        "price": 27
+      },
+      {
+        "name": "Kagawa",
+        "price": 14
+      },
+      {
+        "name": "Zaha",
+        "price": 10
+      },
+      {
+        "name": "Powell",
+        "price": 7
+      },
+      {
+        "name": "Henriquez",
+        "price": 5
+      },
+      {
+        "name": "Buttner",
+        "price": 4
+      }
+    ],
+    "outgoings": [{
+        "name": "Berbatov",
+        "price": 5
+      },
+      {
+        "name": "Park",
+        "price": 3
+      },
+      {
+        "name": "De Laet",
+        "price": 1
+      }
+    ],
+    "total_incomings": 68,
+    "total_outgoings": 9,
+    "net_spend": 59,
+    "revenue": 424
+  },
+  {
+    "season": "13/14",
+    "incomings": [{
+        "name": "Fellaini",
+        "price": 29
+      },
+      {
+        "name": "Mata",
+        "price": 40
+      }
+    ],
+    "outgoings": [],
+    "total_incomings": 69,
+    "total_outgoings": 0,
+    "net_spend": 69,
+    "revenue": 518
+  },
+  {
+    "season": "14/15",
+    "incomings": [{
+        "name": "Di Maria",
+        "price": 67
+      },
+      {
+        "name": "Shaw",
+        "price": 33
+      },
+      {
+        "name": "Herrera",
+        "price": 32
+      },
+      {
+        "name": "Rojo",
+        "price": 18
+      },
+      {
+        "name": "Blind",
+        "price": 16
+      },
+      {
+        "name": "Savic",
+        "price": 1
+      },
+      {
+        "name": "Falcao (loan)",
+        "price": 6
+      }
+    ],
+    "outgoings": [{
+        "name": "Welbeck",
+        "price": 18
+      },
+      {
+        "name": "Kagawa",
+        "price": 7
+      },
+      {
+        "name": "Buttner",
+        "price": 5
+      },
+      {
+        "name": "Zaha",
+        "price": 3
+      },
+      {
+        "name": "Keane",
+        "price": 2
+      },
+      {
+        "name": "Bebe",
+        "price": 2
+      },
+      {
+        "name": "Evra",
+        "price": 1
+      },
+      {
+        "name": "Loans",
+        "price": 3
+      }
+    ],
+    "total_incomings": 173,
+    "total_outgoings": 41,
+    "net_spend": 132,
+    "revenue": 519
+  },
+  {
+    "season": "15/16",
+    "incomings": [{
+        "name": "Martial",
+        "price": 54
+      },
+      {
+        "name": "Schneiderlin",
+        "price": 31
+      },
+      {
+        "name": "Depay",
+        "price": 30
+      },
+      {
+        "name": "Darmian",
+        "price": 16
+      },
+      {
+        "name": "Bastian",
+        "price": 8
+      }
+    ],
+    "outgoings": [{
+        "name": "Di Maria",
+        "price": 56
+      },
+      {
+        "name": "Hernandez",
+        "price": 10
+      },
+      {
+        "name": "Evans",
+        "price": 7
+      },
+      {
+        "name": "Van Persie",
+        "price": 6
+      },
+      {
+        "name": "Nani",
+        "price": 6
+      },
+      {
+        "name": "Rafael",
+        "price": 2
+      },
+      {
+        "name": "Henriquez",
+        "price": 1
+      },
+      {
+        "name": "James",
+        "price": 1
+      }
+    ],
+    "total_incomings": 139,
+    "total_outgoings": 89,
+    "net_spend": 50,
+    "revenue": 689
+  },
+  {
+    "season": "16/17",
+    "incomings": [{
+        "name": "Pogba",
+        "price": 92
+      },
+      {
+        "name": "Mkhitaryan",
+        "price": 24
+      },
+      {
+        "name": "Bailly",
+        "price": 32
+      }
+    ],
+    "outgoings": [{
+        "name": "Schneiderlin",
+        "price": 20
+      },
+      {
+        "name": "Depay",
+        "price": 14
+      },
+      {
+        "name": "McNair",
+        "price": 4
+      },
+      {
+        "name": "Blackett",
+        "price": 1
+      },
+      {
+        "name": "Keane",
+        "price": 1
+      }
+    ],
+    "total_incomings": 148,
+    "total_outgoings": 40,
+    "net_spend": 108,
+    "revenue": 676
+  },
+  {
+    "season": "17/18",
+    "incomings": [{
+        "name": "Lukaku",
+        "price": 75
+      },
+      {
+        "name": "Matic",
+        "price": 35
+      },
+      {
+        "name": "Lindelof",
+        "price": 31
+      }
+    ],
+    "outgoings": [{
+        "name": "Januzaj",
+        "price": 7
+      },
+      {
+        "name": "Loan fees",
+        "price": 2
+      }
+    ],
+    "total_incomings": 141,
+    "total_outgoings": 9,
+    "net_spend": 132,
+    "revenue": 665
+  },
+  {
+    "season": "18/19",
+    "incomings": [{
+        "name": "Fred",
+        "price": 52
+      },
+      {
+        "name": "Dalot",
+        "price": 18
+      },
+      {
+        "name": "Grant",
+        "price": 1
+      }
+    ],
+    "outgoings": [{
+        "name": "Blind",
+        "price": 15
+      },
+      {
+        "name": "Johnstone",
+        "price": 6
+      },
+      {
+        "name": "Fellaini",
+        "price": 6
+      }
+    ],
+    "total_incomings": 71,
+    "total_outgoings": 27,
+    "net_spend": 44,
+    "revenue": 711
+  },
+  {
+    "season": "19/20",
+    "incomings": [{
+        "name": "Maguire",
+        "price": 75
+      },
+      {
+        "name": "Fernandes",
+        "price": 50
+      },
+      {
+        "name": "Wan-Bissaka",
+        "price": 50
+      },
+      {
+        "name": "James",
+        "price": 15
+      }
+    ],
+    "outgoings": [{
+        "name": "Lukaku",
+        "price": 65
+      },
+      {
+        "name": "Darmian",
+        "price": 2
+      },
+      {
+        "name": "Young",
+        "price": 2
+      },
+      {
+        "name": "Loans",
+        "price": 3
+      }
+    ],
+    "total_incomings": 190,
+    "total_outgoings": 72,
+    "net_spend": 118,
+    "revenue": 0
+  }
+]
